@@ -47,7 +47,7 @@ This project is a simple web application that predicts whether a Zambian student
 ### 1. Clone the Repository
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/WazDevZm/ECZ-exam-results-predictor.git
 cd ECZ-exam-results-predictor
 ```
 
